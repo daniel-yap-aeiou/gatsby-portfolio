@@ -95,6 +95,6 @@ Please create issue or open PR request for contribution.
 
 ### License
 
-[![Open Source Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](LICENSE)
+[![Open Source Love](https://img.shields.io/badge/License-GPLv3-blue.svg)](LICENSE)
 
 refer `LICENSE` file in this repository.
